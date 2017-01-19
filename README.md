@@ -16,7 +16,7 @@ To replace the demo by another one:
    
     cp node_modules/jqwidgets-framework/demos/react/app/***panel***/defaultfunctionality/app.js src/App.js
 
-   1. change the import location
+   1. inside src/App.js, change the import location
     
     import JqxPanel from '***jqwidgets-framework/***jqwidgets-react/react_jqxpanel.js';
 
