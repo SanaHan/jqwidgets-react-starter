@@ -12,9 +12,9 @@ Full list of demos is installed in node_modules/jqwidgets-framework/demos/react/
       
 To replace the demo by another one:   
    
-   1. grab the demo installed in  node_modules
+   1. grab the demo installed in  node_modules (e.g. demo panel)
    
-    cp node_modules/jqwidgets-framework/demos/react/app/panel/defaultfunctionality/app.js src/App.js
+    cp node_modules/jqwidgets-framework/demos/react/app/***panel***/defaultfunctionality/app.js src/App.js
 
    1. change the import location
     
@@ -26,6 +26,6 @@ To replace the demo by another one:
 
    3. comment the last line 
     
-    *** //***ReactDOM.render(<App />, document.getElementById('app'));
+    ***//***ReactDOM.render(<App />, document.getElementById('app'));
 
 I have not tried all demos, but theses steps worked for me so far... 
