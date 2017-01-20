@@ -29,3 +29,11 @@ To replace the demo by another one:
     ***//***ReactDOM.render(<App />, document.getElementById('app'));
 
 Voila! I have not tried all demos, but theses steps worked for me so far... 
+
+## More info
+Some more info about usage with react from JQwidgets :
+http://www.jqwidgets.com/jquery-widgets-documentation/documentation/React/React.htm
+
+List of widgets :
+http://www.jqwidgets.com/react/
+
