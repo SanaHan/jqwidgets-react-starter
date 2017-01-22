@@ -6,6 +6,8 @@ module.exports = {
     path: './',
     filename: 'index.js'
   },
+  debug: true,
+  devtool: 'source-map',
   devServer: {
     inline: true,
     port: 3333
